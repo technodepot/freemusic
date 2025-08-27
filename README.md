@@ -54,8 +54,9 @@ Contoh:
 ```kotlin
 object DefaultSongs {
     val urls = listOf(
-        "https://example.com/free-music/song1.mp3",
-        "https://example.com/free-music/song2.mp3"
+        "https://raw.githubusercontent.com/username/free-music-symphony/main/audio/lagu1.mp3",
+        "https://raw.githubusercontent.com/username/free-music-symphony/main/audio/lagu2.mp3",
+        "https://raw.githubusercontent.com/username/free-music-symphony/main/audio/lagu3.mp3"
     )
 }
 ```
